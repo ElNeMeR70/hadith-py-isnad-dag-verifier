@@ -1,0 +1,7 @@
+[project]
+name = "hadith-py-isnad-dag-verifier"
+version = "1.0.0"
+description = "Isnad Transmission Chain Directed Acyclic Graph Verifier (فاحص اتصال السند عبر الرسم البياني الموجه DAG)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
